@@ -18,8 +18,7 @@ Para teste:
 	"longitude": -46.6565712
 }
 ```
-OBS: é preciso ter configurar o acesso ao banco no appsettings.
-```
+OBS: é preciso configurar o acesso ao banco no appsettings.
 
 
 
